@@ -1,0 +1,5 @@
+D:/Bitirme/ARCore_MeasurementApp/.utmp/RelWithDebInfo/4q1x6g6l/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Bitirme/ARCore_MeasurementApp/.utmp/RelWithDebInfo/4q1x6g6l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Bitirme/ARCore_MeasurementApp/.utmp/RelWithDebInfo/4q1x6g6l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Bitirme/ARCore_MeasurementApp/.utmp/RelWithDebInfo/4q1x6g6l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Bitirme/ARCore_MeasurementApp/.utmp/RelWithDebInfo/4q1x6g6l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
